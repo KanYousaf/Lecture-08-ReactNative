@@ -4,7 +4,7 @@ import { mainAppStyles } from "./styles";
 import ListHead from "./Component/listHead";
 import axios from "axios";
 
-const API_KEY = "f44ac504ecmshd249e116f13ca98p190060jsn1a6a2479ff94";
+const API_KEY = "ENTER_YOUR_API_KEY";
 const API_URL = "https://dad-jokes.p.rapidapi.com/random/joke";
 const JOKES_PER_LOAD = 15;
 
