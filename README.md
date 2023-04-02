@@ -5,7 +5,8 @@ Using Axios to fetch data from the Dad Joke API and display it on FlatList
 ### Axios API
 To install Axios API in your React Native project, follow these steps:
 1. Open your project directory in the terminal.
-2. Run the following command: npm install axios
+2. Run the following command: 
+```npm install axios ```
 
 ## How to get access to Dad Jokes API
 1. Visit RapidAPI to find Dad Jokes APT (URL : https://rapidapi.com/KegenGuyll/api/dad-jokes/)
